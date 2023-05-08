@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706870880136",
+    "project_id": "filmku-7dfad",
+    "storage_bucket": "filmku-7dfad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706870880136:android:cb9f425db6f25a8f91bc3d",
+        "android_client_info": {
+          "package_name": "com.example.myshow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706870880136-2b72no3lnhb12nqrhv107gi0jh75s1qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUE8KgKsKewKZvXi18Xwc3fjQr8Bta0AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706870880136-2b72no3lnhb12nqrhv107gi0jh75s1qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
